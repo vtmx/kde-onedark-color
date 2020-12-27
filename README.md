@@ -2,10 +2,8 @@
 
 ```
 https://github.com/Binaryify/OneDark-Pro/blob/master/scss/atom-one-dark-inside.scss
-
 Atom One Dark by Daniel Gamage
 Original One Dark Syntax theme from https://github.com/atom/one-dark-syntax
-
 base:    #282c34
 mono-1:  #abb2bf
 mono-2:  #818896
