@@ -1,5 +1,6 @@
 # KDE One Dark Colors
 
+```
 https://github.com/Binaryify/OneDark-Pro/blob/master/scss/atom-one-dark-inside.scss
 
 Atom One Dark by Daniel Gamage
@@ -37,3 +38,4 @@ base0C: #56b6c2
 base0D: #61afef
 base0E: #c678dd
 base0F: #be5046
+```
